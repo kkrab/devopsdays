@@ -1,5 +1,7 @@
 # Contribute to GitLab recipes
 
+# Test edit
+
 This guide details how to use issues and pull requests to improve GitLab recipes.
 
 Please stick as close as possible to the guidelines. That way we ensure quality guides
