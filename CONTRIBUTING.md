@@ -1,6 +1,7 @@
 # Contribute to GitLab recipes
 
 # Test edit
+# Test branch
 
 This guide details how to use issues and pull requests to improve GitLab recipes.
 
